@@ -1,4 +1,4 @@
-# systemic-dock-base
+# dock-base
 
 [![Container Logo](https://github.com/Adron/systemic-dock-base/blob/master/Logo.png)]()
 
