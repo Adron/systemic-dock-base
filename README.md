@@ -11,4 +11,4 @@
 
 Docker image for development using Kafka.
 
-*Author(s):* [![Adron Hall](./AdronHall.png)](http://compositecode.com) @ **[Github](https://www.github.com/adron)** or **[Twitter](https://twitter.com/adron)**.
+*Author(s):* [![Adron Hall](https://github.com/Adron/systemic-dock-base/blob/master/AdronHall.png)](http://compositecode.com) @ **[Github](https://www.github.com/adron)** or **[Twitter](https://twitter.com/adron)**.
