@@ -1,6 +1,6 @@
 # systemic-dock-base
 
-[![Container Logo](./Logo.png)]()
+[![Container Logo](https://github.com/Adron/systemic-dock-base/blob/master/Logo.png)]()
 
 [![License](https://img.shields.io/github/license/Adron/systemic-dock-base.svg?style=flat-square)](https://github.com/Adron/systemic-dock-base/blob/master/LICENSE)
 [![Maintenance](https://img.shields.io/maintenance/yes/2016.svg?style=flat-square)](#)
