@@ -1,4 +1,4 @@
-# dock-base
+# Dock-base
 
 [![Container Logo](https://github.com/Adron/systemic-dock-base/blob/master/Logo.png)]()
 
@@ -9,6 +9,6 @@
 [![ImageLayers Size](https://img.shields.io/imagelayers/image-size/_/adron/systemic-dock-base.svg?style=flat-square)](https://hub.docker.com/r/adron/dock-base/)
 [![ImageLayers Layers](https://img.shields.io/imagelayers/layers/_/adron/systemic-dock-base.svg?style=flat-square)](https://hub.docker.com/r/adron/dock-base/)
 
-Docker image for development using Kafka.
+Docker image for use as a base image for other images I'm creating.
 
 *Author(s):* [![Adron Hall](https://github.com/Adron/systemic-dock-base/blob/master/AdronHall.png)](http://compositecode.com) @ **[Github](https://www.github.com/adron)** or **[Twitter](https://twitter.com/adron)**.
