@@ -1,6 +1,6 @@
 # systemic-dock-base
 
-[![Container Logo](./Logo.png)]()
+[![Container Logo](https://github.com/adron-orange/systemic-dock-base/blob/master/Logo.png?raw=true)]()
 
 [![License](https://img.shields.io/github/license/Adron/systemic-dock-base.svg?style=flat-square)](https://github.com/Adron/systemic-dock-base/blob/master/LICENSE)
 [![Maintenance](https://img.shields.io/maintenance/yes/2016.svg?style=flat-square)](#)
@@ -11,4 +11,4 @@
 
 Docker image for development using Kafka.
 
-*Author(s):* [![Adron Hall](./AdronHall.png)](http://compositecode.com) @ **[Github](https://www.github.com/adron)** or **[Twitter](https://twitter.com/adron)**.
+*Author(s):* [![Adron Hall](https://github.com/adron-orange/systemic-dock-base/blob/master/AdronHall.png?raw=true)](http://compositecode.com) @ **[Github](https://www.github.com/adron)** or **[Twitter](https://twitter.com/adron)**.
