@@ -10,8 +10,3 @@
 Docker image for use as a base image for other images I'm creating.
 
 *Author(s):* [![Adron Hall](https://github.com/Adron/systemic-dock-base/blob/master/AdronHall.png)](http://compositecode.com) @ **[Github](https://www.github.com/adron)** or **[Twitter](https://twitter.com/adron)**.
-
-Docker image for use in other Docker images I've created.
-
-*Author(s):* [![Adron Hall](https://github.com/adron-orange/systemic-dock-base/blob/master/AdronHall.png?raw=true)](http://compositecode.com) @ **[Github](https://www.github.com/adron)** or **[Twitter](https://twitter.com/adron)**.
->>>>>>> 5ea3e0ff42247329fd9ff45455360be7ae6ad7d0
